@@ -8,7 +8,7 @@ public class AbilityEnable : MonoBehaviour
     internal GameObject ability;
 
     private HP_SideBar_Manager manager;
-
+    
     private void Start()
     {
         manager = GameObject.FindGameObjectWithTag
