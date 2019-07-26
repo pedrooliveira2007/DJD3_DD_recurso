@@ -2596,7 +2596,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 0.8
+  m_Volume: 0.5
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -2694,8 +2694,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   source: {fileID: 847163132374697408}
   attackAudios:
-  - {fileID: 8300000, guid: 3d10d1fac73ba77429fe51ba595a36c2, type: 3}
   - {fileID: 8300000, guid: 89b2dc09941651641a22e76cca513375, type: 3}
+  - {fileID: 8300000, guid: 3d10d1fac73ba77429fe51ba595a36c2, type: 3}
   - {fileID: 8300000, guid: 0023d174be2308f4d94d116375d1672d, type: 3}
   - {fileID: 8300000, guid: 4352b41f22427d744823093a151fd0f4, type: 3}
   - {fileID: 8300000, guid: 4352b41f22427d744823093a151fd0f4, type: 3}
